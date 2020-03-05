@@ -1,6 +1,6 @@
 # Movie Lens Database
 ## Hive Vs SQL Implementation
-[Reference Paper](https://github.com/pradeepsalunke/MovieLens-Hive-Vs-SQL/blob/master/COEN380_ResearchPaper_Team1.pdf)
+[Reference Paper](https://github.com/pradeepsalunke/MovieLens-Hive-Vs-SQL/blob/master/ResearchPaper.pdf)
 
 Mini project to implement Movie Lens Database's HIVE and SQL version.
 
